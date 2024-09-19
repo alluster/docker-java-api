@@ -1,3 +1,11 @@
+# Java SpringBoot API with Docker + PostgreSQL database
+
+This is a boilerplate API with Java to add CRUD operations to a postgreSQL database.
+
+## Authors
+
+-   [@alluster](https://www.github.com/alluster)
+
 ## API Reference
 
 API address is:
@@ -46,4 +54,19 @@ API address is:
 
 ```http
   DELETE /api/users/{uid}
+```
+
+## Installation
+
+Use Docker on your local machine and make sure it's running.
+
+```bash
+  cd docker-api-example
+  docker-compose up
+```
+
+To view Adminer GUI to PostgreSQL in your browser navigate to:
+
+```bash
+  localhost:8070
 ```
