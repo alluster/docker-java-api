@@ -1,10 +1,6 @@
-# Java SpringBoot API with Docker + PostgreSQL database
+# Java SpringBoot REST API with Docker + PostgreSQL database
 
 This is a boilerplate API with Java to add CRUD operations to a postgreSQL database.
-
-## Authors
-
--   [@alluster](https://www.github.com/alluster)
 
 ## API Reference
 
